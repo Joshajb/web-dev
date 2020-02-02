@@ -6,5 +6,6 @@
 }
 
 .img-radius {
-	border-radius: 50%;
+	border-radius: 30%;
+	box-shadow: 3px 3px 3px grey;
 }
